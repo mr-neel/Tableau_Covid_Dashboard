@@ -45,7 +45,7 @@ The following points were the objective of the project .
 - Building and hosting a project on Git hub
 
 
-<img target="_blank" src="https://github.com/mr-neel/covid_Anyalsis_Power bi project/blob/master/Resource/covid.png" width=170>
+<![Screenshot (20)](https://user-images.githubusercontent.com/71751175/122771591-359f7e00-d2c4-11eb-84a9-2397354beaa3.png)
 
 
 

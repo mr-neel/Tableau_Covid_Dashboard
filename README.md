@@ -56,11 +56,4 @@ If you find a bug kindly open an issue [here](https://github.com/mr-neel/Tableau
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/mr-neel/Tableau_Covid_Dashboard//issues). Please include sample queries and their corresponding results.
 
 
-### Installation 
-- Clone this repository and unzip it.
-- Install the required packages using  -r requirements.txt
-- Execute the command: python app.py
-
-
-
 
